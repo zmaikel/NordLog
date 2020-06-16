@@ -1,0 +1,14 @@
+C:\Users\maike\source\repos\TRYHM\TRYHM\bin\Debug\TRYHM.exe.config
+C:\Users\maike\source\repos\TRYHM\TRYHM\bin\Debug\TRYHM.exe
+C:\Users\maike\source\repos\TRYHM\TRYHM\bin\Debug\TRYHM.pdb
+C:\Users\maike\source\repos\TRYHM\TRYHM\bin\Debug\TRYHM.xml
+C:\Users\maike\source\repos\TRYHM\TRYHM\obj\Debug\TRYHM.Login.resources
+C:\Users\maike\source\repos\TRYHM\TRYHM\obj\Debug\TRYHM.Resources.resources
+C:\Users\maike\source\repos\TRYHM\TRYHM\obj\Debug\TRYHM.vbproj.GenerateResource.cache
+C:\Users\maike\source\repos\TRYHM\TRYHM\obj\Debug\TRYHM.vbproj.CoreCompileInputs.cache
+C:\Users\maike\source\repos\TRYHM\TRYHM\obj\Debug\TRYHM.exe
+C:\Users\maike\source\repos\TRYHM\TRYHM\obj\Debug\TRYHM.xml
+C:\Users\maike\source\repos\TRYHM\TRYHM\obj\Debug\TRYHM.pdb
+C:\Users\maike\source\repos\TRYHM\TRYHM\obj\Debug\TRYHM.vbprojAssemblyReference.cache
+C:\Users\maike\source\repos\TRYHM\TRYHM\obj\Debug\TRYHM.Seleccion.resources
+C:\Users\maike\source\repos\TRYHM\TRYHM\obj\Debug\TRYHM.Control_de_Usuarios.resources
